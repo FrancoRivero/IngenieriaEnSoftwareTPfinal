@@ -1,6 +1,0 @@
-v1.0  Se agrego el singleton
-v1.1  Se agregaron los observadores
-v1.2  Se implementan los cambios en la ventana del Heart
-v2.0  Se agrega nuevo modelo
-v2.1  Se prosigue con el modelo
-v3.0 final se agrega, multiview
